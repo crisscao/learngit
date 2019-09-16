@@ -5,3 +5,4 @@ Today is Thurday!
 git hello
 git 123456
 add branch info
+new branch simple
