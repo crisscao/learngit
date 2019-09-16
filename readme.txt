@@ -6,3 +6,4 @@ git hello
 git 123456
 add branch info
 add simple
+test push
